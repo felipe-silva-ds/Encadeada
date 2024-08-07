@@ -1,7 +1,7 @@
 # Encadeada
-# Lista-Sequencial
+# Lista-Encadeada
 
-Este projeto implementa uma lista encadeada em C++. Com uma classe que cria uma lista, verifica se está cheia ou vazia, seu tamanho, modificar e obter um elemento e inserir ou remover em uma determinada posição.
+Este projeto implementa uma lista encadeada em C++. Com uma classe que cria uma NO, verifica se está cheia ou vazia, seu tamanho, modificar e obter um elemento e inserir ou remover em uma determinada posição.
 
 # Compilação e Execução
 
